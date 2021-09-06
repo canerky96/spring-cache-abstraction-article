@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-cache-demo
+
+couchbase:
+  url: localhost
+  username: admin
+  password: Pass123*
+  bucket: book-bucket
